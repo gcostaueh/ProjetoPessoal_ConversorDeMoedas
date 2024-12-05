@@ -1,0 +1,14 @@
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\bin\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.exe
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\bin\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.deps.json
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\bin\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.runtimeconfig.json
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\bin\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.dll
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\bin\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.pdb
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\obj\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\obj\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.AssemblyInfoInputs.cache
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\obj\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.AssemblyInfo.cs
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\obj\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.csproj.CoreCompileInputs.cache
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\obj\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.dll
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\obj\Debug\net8.0\refint\ProjetoPessoal_ConversorDeMoedas.dll
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\obj\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.pdb
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\obj\Debug\net8.0\ProjetoPessoal_ConversorDeMoedas.genruntimeconfig.cache
+D:\Programação\C#\ProjetoPessoal_ConversorDeMoedas\obj\Debug\net8.0\ref\ProjetoPessoal_ConversorDeMoedas.dll
